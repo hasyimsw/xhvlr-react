@@ -14,7 +14,7 @@ const Hero = () => {
                         <button className='buttonPrimary px-10'>Get Started</button>
                     </div>
                 </div>
-                <div>
+                <div className='mt-5 lg:mt-0'>
                     <img src={heroImage} alt="" />
                 </div>
             </div>

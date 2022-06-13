@@ -16,10 +16,10 @@
   }
 
   .buttonTransparent {
-    @apply py-[6px] px-4 border-2 border-[#1f00ff] rounded-md hover:bg-gradient-to-r from-[#1f00ff] to-[#ff06f3];
+    @apply py-[6px] px-5 border-2 border-[#1f00ff] rounded-md hover:bg-gradient-to-r from-[#1f00ff] to-[#ff06f3];
   }
 
   .buttonPrimary {
-    @apply py-[6px] px-4 bg-gradient-to-r from-[#1f00ff] to-[#ff06f3] border-2 border-[#1f00ff] rounded-md hover:opacity-90 shadow-sm;
+    @apply py-[6px] px-5 bg-gradient-to-r from-[#1f00ff] to-[#ff06f3] border-2 border-[#1f00ff] rounded-md hover:opacity-90 shadow-sm;
   }
 }

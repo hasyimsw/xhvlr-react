@@ -20,6 +20,6 @@
   }
 
   .buttonPrimary {
-    @apply py-[6px] px-5 bg-gradient-to-r from-[#1f00ff] to-[#ff06f3] border-2 border-[#1f00ff] rounded-md hover:opacity-90 shadow-sm;
+    @apply py-[6px] px-5 bg-gradient-to-r from-[#1f00ff] to-[#ff06f3] rounded-md hover:opacity-90 shadow-sm;
   }
 }

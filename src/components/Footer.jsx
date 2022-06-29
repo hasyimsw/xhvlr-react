@@ -66,6 +66,7 @@ const Footer = () => {
             <FaGithub className='w-8' />
           </div>
         </div>
+        <p>CODED BY HASYIM</p>
       </div>
     </div>
   )
